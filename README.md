@@ -1,13 +1,10 @@
 ### Hi there 👋
 <!--
 **aketchgithub/aketchgithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
--->
-<div align="center">
-<img src="https://www.istockphoto.com/photo/double-exposure-of-two-businessman-shaking-hands-with-gm807253686-130790039" align="center" style="width: 100%" />
-</div>  
+--> 
   
 
-### <div align="center">I'm Aketch Owino, a full-time full-stack developer 👨‍💻 working remotely since 2020 🚀</div>  
+### <div align="center">I'm Aketch Owino, a full-time full-stack developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
 - 🔭 I’m currently working on [Manager App](https://github.com/aketchgithub/app-manager-project)  
