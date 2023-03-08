@@ -11,7 +11,7 @@
 - Building my own custom API's for my Frontend Projects.
   
 
-- 🌱 I’m currently learning Ruby/rails and Python.
+- 🌱 I’m currently learning Ruby rails, and Python.
 
 
 - 👯 I’m looking to collaborate on ...Building AI/ working on impactful tech advancements that has potential to change society.
@@ -113,7 +113,7 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
- https://medium.com/@vickeryace/getting-started-as-a-software-developer-57a1a6b90555
+ https://medium.com/@vickeryace/
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
