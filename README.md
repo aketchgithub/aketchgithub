@@ -12,7 +12,7 @@
 <br/>
   
 
-- 🔭 I’m currently working on [Manager App](https://github.com/aketchgithub/app-manager-project)  
+- 🔭 I’m currently working on [Manager App](https://github.com/aketchgithub/blog_site)  
 - Building my own custom API's for my Frontend Projects.
   
 
