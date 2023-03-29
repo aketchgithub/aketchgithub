@@ -19,14 +19,14 @@
 - 🌱 I’m currently learning Ruby rails, and Python.
 
 
-- 👯 I’m looking to collaborate on ...Building AI/ working on impactful tech advancements that has potential to change society.
+- 👯 I’m looking to collaborate on ...developing AI/ working on impactful tech advancements that has potential to change society.
   
 
-- ❓ Ask me about anything related to Ruby and related technologies.  
+- ❓ Ask me about anything related to Ruby and related technologies, API's, Software Engineering. 
 
 - 😄 Pronouns: ... He/Him
 
-- 🤔 I’m looking for help with ...UI/UX Design.
+- 🤔 I’m looking for help with ...DevOps.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
