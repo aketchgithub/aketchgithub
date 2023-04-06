@@ -36,6 +36,14 @@ body {
   }
 }
 
+/* @media screen and (min-width: 768px) {
+  .wrapper {
+    width: 100%;
+    margin: -30px auto -15px auto;
+    padding: 50px 0;
+  }
+} */
+
 .wrapper:before {
   content: '';
   position: absolute;
@@ -84,6 +92,23 @@ body {
   padding-top: 60px;
   margin-top: 10px;
 }
+
+
+@media screen and (min-width: 768px) {
+  .box {
+    width: 80%;
+    margin: 50px auto;
+    box-shadow: -1rem 0 3rem #000;
+    text-align: center;
+    padding: 60px 30px 30px 30px;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+}
+
+
+
 .box-inner {
   padding: 30px;
 }
@@ -110,6 +135,22 @@ body {
   display: block;
   
 }
+
+@media screen and (min-width: 768px) {
+  .avatar {
+    top: -50%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+    width: 40%;
+    left: 45%;
+  }
+
+  .avatar img {
+    width: 100%;
+    height: 100%;
+  }
+}
+
 h1,
 h2,
 h3,
