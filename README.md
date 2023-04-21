@@ -7,7 +7,7 @@
 ### <div align="center">I'm Owino Aketch, a full-time full-stack developer 👨‍🚀</div>  
 
 <div>
-  <p> Full stack software developer with years of experience developing and delivering robust applications using modern technologies such as React, JavaScript, Ruby on Rails, and SQL. Skilled in the design and implementation of scalable, efficient, and maintainable code, with a strong focus on user experience and performance optimization. Proven ability to work collaboratively with cross-functional teams to deliver high-quality solutions within strict timelines. Passionate about staying up-to-date with emerging technologies and continuously improving development practices to enhance product quality and end-user satisfaction.  </p>
+  <p> Full stack software developer with years of experience developing and delivering robust applications using modern technologies such as JavaScript, React, Ruby/Rails, and SQL. Skilled in the design and implementation of scalable, efficient, and maintainable code, with a strong focus on user experience and performance optimization. Proven ability to work collaboratively with cross-functional teams to deliver high-quality solutions within strict timelines. Passionate about staying up-to-date with emerging technologies and continuously improving development practices to enhance product quality and end-user satisfaction.  </p>
 </div>
 <br/>
   
