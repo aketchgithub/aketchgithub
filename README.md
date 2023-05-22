@@ -12,17 +12,17 @@
 <br/>
   
 
-- 🔭 I’m currently working on [Blog Site](https://github.com/aketchgithub/blog_site) and [E-commerce Site](https://github.com/aketchgithub/e-commerce_site).
+- 🔭 I’m currently working on [Blog Site] and [careConnect App.]
 - Building my own custom API's for my Frontend Projects.
   
 
-- 🌱 I’m currently learning Ruby rails, and Python.
+- 🌱 I’m currently learning Python.
 
 
-- 👯 I’m looking to collaborate on ...developing AI/ working on impactful tech advancements that has potential to change society.
+- 👯 I’m looking to collaborate on ... impactful tech advancements that has potential to change society.
   
 
-- ❓ Ask me about anything related to Ruby and related technologies, API's, Software Engineering. 
+- ❓ Ask me about anything related to Ruby/Rails and related technologies, API's, Software Engineering. 
 
 - 😄 Pronouns: ... He/Him
 
@@ -104,7 +104,7 @@
 </a>  
 </div>  
   
-  https://profile-card-puce-eta.vercel.app/
+  https://profile-gamma-opal.vercel.app/
   
 
 <br/>  
