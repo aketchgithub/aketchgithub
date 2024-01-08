@@ -7,22 +7,22 @@
 ### <div align="center">I'm Owino Aketch, a full-time full-stack developer 👨‍🚀</div>  
 
 <div>
-  <p> Full stack software developer with years of experience developing and delivering robust applications using modern technologies such as JavaScript, React, Ruby/Rails, and SQL. Skilled in the design and implementation of scalable, efficient, and maintainable code, with a strong focus on user experience and performance optimization. Proven ability to work collaboratively with cross-functional teams to deliver high-quality solutions within strict timelines. Passionate about staying up-to-date with emerging technologies and continuously improving development practices to enhance product quality and end-user satisfaction.  </p>
+  <p> Full stack software developer with years of experience developing and delivering robust applications using modern technologies such as JavaScript, React, Ruby/Rails, and SQL. Skilled in designing and implementing scalable, efficient, and maintainable code, with a strong focus on user experience and performance optimization. Proven ability to collaborate with cross-functional teams to deliver high-quality solutions within strict timelines. Passionate about staying up-to-date with emerging technologies and continuously improving development practices to enhance product quality and end-user satisfaction.  </p>
 </div>
 <br/>
   
 
-- 🔭 I’m currently working on [Blog Site] and [careConnect App.]
-- Building my own custom API's for my Frontend Projects.
+- 🔭 I’m working on [Blog Site] and [careConnect App.]
+- Building my custom APIs for my Frontend Projects.
   
 
 - 🌱 I’m currently learning Python.
 
 
-- 👯 I’m looking to collaborate on ... impactful tech advancements that has potential to change society.
+- 👯 I’m looking to collaborate on ... impactful tech advancements that have the potential to change society.
   
 
-- ❓ Ask me about anything related to Ruby/Rails and related technologies, API's, Software Engineering. 
+- ❓ Ask me about anything related to Ruby/Rails and related technologies, APIs, and Software Engineering. 
 
 - 😄 Pronouns: ... He/Him
 
